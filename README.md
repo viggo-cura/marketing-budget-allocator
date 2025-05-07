@@ -53,7 +53,3 @@ The application allows you to configure:
 - NumPy
 - Matplotlib
 - Seaborn
-
-## License
-
-[Your chosen license] 
